@@ -9,3 +9,5 @@
 - [덱 빌더](https://gtaqwe.github.io/ShinyColors_Unit_Deck_Builder/)
 
 - [GRAD PR 계산기](https://gtaqwe.github.io/ShinyColors_GRAD_PR_Calculate/)
+
+- [콜라보 페스 추천 카드](https://gtaqwe.github.io/ShinyColors_Collabo_Fes_Recommend_Card/)
