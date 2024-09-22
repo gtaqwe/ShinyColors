@@ -13,3 +13,5 @@
 - [콜라보 페스 추천 카드](https://gtaqwe.github.io/ShinyColors_Collabo_Fes_Recommend_Card/)
 
 - [STEP 포인트 계산기](https://gtaqwe.github.io/ShinyColors_STEP_Point_Calculate/)
+
+- [STEP 친애도 계산기](https://gtaqwe.github.io/ShinyColors_STEP_Affection_Calculate/)
